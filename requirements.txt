@@ -1,0 +1,5 @@
+# relay 模式只用 Python 标准库；下面两个包是 local 模式（本地雀魂账号）需要的。
+ms-api>=0.11.252
+tensoul>=0.1.8
+UnityPy>=1.25
+requests>=2.31
